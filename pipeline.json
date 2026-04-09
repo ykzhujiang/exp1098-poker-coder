@@ -1,0 +1,35 @@
+{
+  "project": "exp1098-poker-coder",
+  "created_at": "2026-04-09T14:41:18.313718+00:00",
+  "github_repo": "ykzhujiang/exp1098-poker-coder",
+  "config": {
+    "theme": "996码农陈默被拉去公司团建德州扑克赛，用程序员算法思维一路逆袭，苦中作乐喜剧",
+    "genre": "comedy",
+    "style": "realistic",
+    "duration": 15,
+    "characters": 3,
+    "setting": "中国一线城市，现代。互联网公司年会德州扑克锦标赛，酒店宴会厅，灯光明亮温暖",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
