@@ -14,7 +14,7 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "in_progress",
+  "status": "step1.5_done",
   "steps": {
     "step1b": {
       "status": "done",
@@ -24,7 +24,12 @@
       "segment_count": 1
     },
     "step1.5": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-09T14:44:34.632605+00:00",
+      "completed_at": "2026-04-09T14:46:15.062207+00:00",
+      "output": "production/storyboard/ep01_storyboard_verdict.json",
+      "character_verdict": "PASS",
+      "storyboard_verdict": "PASS"
     },
     "step3": {
       "status": "not_started"
