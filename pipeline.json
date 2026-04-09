@@ -14,10 +14,14 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "not_started",
+  "status": "in_progress",
   "steps": {
     "step1b": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-09T14:44:07.778619+00:00",
+      "completed_at": "2026-04-09T14:44:07.778731+00:00",
+      "output": "production/storyboard/ep01.md",
+      "segment_count": 1
     },
     "step1.5": {
       "status": "not_started"
